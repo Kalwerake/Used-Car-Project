@@ -18,4 +18,6 @@ detailed code and steps taken are shown in jupyter notebook titeled, `improvedSc
 
 ## Exploratory Data Analysis and Model Building
 
+Exploratory data analysis on the obtained dataset, followed by model fitting and optimisation.
+
 ## Model Deployment
