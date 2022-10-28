@@ -13,7 +13,8 @@ How much is your car worth? Using scraped data to predict car prices.
 - Flask
 
 ## The Webscraper
-A simple webscraper built using BeautifulSoup to collect data from https://www.cazoo.co.uk/. The code is contained within the juptier notebook titled `scraper`. The notebook also contains code on cleaning data aquired from the scraper, to output a pandas datafram and to save in csv format in a notebook directory. 
+A simple webscraper built using BeautifulSoup to collect data from https://www.cazoo.co.uk/. The code is contained within the file `scraper.py`
+detailed code and steps taken are shown in jupyter notebook titeled, `improvedScraper`.
 
 ## Exploratory Data Analysis and Model Building
 
